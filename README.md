@@ -12,7 +12,7 @@ A simple web-based password generator built using HTML, CSS, and JavaScript. Thi
 
 ## Demo
 
-Experience the live version of the password generator here: pu4ick.github.io/password-generator/
+Experience the live version of the password generator here: [link](https://pu4ick.github.io/password-generator/)
 
 ## Installation
 
